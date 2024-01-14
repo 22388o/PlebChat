@@ -1,0 +1,11 @@
+python-dotenv
+
+streamlit
+streamlit-chat
+streamlit-authenticator
+streamlit_mic_recorder
+
+gtts
+openai
+assemblyai
+mistralai
